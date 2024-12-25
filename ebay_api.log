@@ -1,0 +1,550 @@
+12月 24, 2024 3:54:22 下午 eBay_GraphQL1 logAction
+信息: [15:54:22.266634700] [eBay] 开始获取项目ID: 375818151669
+12月 24, 2024 3:54:23 下午 eBay_GraphQL1 logAction
+信息: [15:54:23.917078600] [eBay] 成功获取项目ID: 375818151669
+12月 24, 2024 3:54:23 下午 eBay_GraphQL1 logAction
+信息: [15:54:23.938556400] [GraphQL] 提示: 请选择有效的 SKU！
+12月 24, 2024 3:54:23 下午 eBay_GraphQL1 logAction
+信息: [15:54:23.940555400] [GraphQL] 提示: 请选择有效的 SKU！
+12月 24, 2024 3:54:26 下午 eBay_GraphQL1 logAction
+信息: [15:54:26.273760400] [GraphQL] 开始查询 SKU: DM7866-202，匹配后缀: 40-黑棕
+12月 24, 2024 3:54:26 下午 eBay_GraphQL1 logAction
+信息: [15:54:26.369619400] [GraphQL] 查询到的 ProductID: 21089
+12月 24, 2024 3:54:26 下午 eBay_GraphQL1 logAction
+信息: [15:54:26.493530600] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.407922800] [调试] 当前行: ProductID: 21089, Price: 2369.0, Variation: 40-黑棕, Scrape Time: 2024-12-24T14:00:58.952177+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.408924600] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.414921500] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2369.0, New Price = 387.0, Scrape Time = 2024-12-24T14:00:58.952177+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.415936700] [调试] 当前行: ProductID: 21089, Price: 2389.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T23:39:37.916005+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.416919200] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.416919200] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2389.0, New Price = 390.0, Scrape Time = 2024-12-23T23:39:37.916005+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.417918700] [调试] 当前行: ProductID: 21089, Price: 2399.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T22:19:04.126018+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.417918700] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.418918400] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2399.0, New Price = 392.0, Scrape Time = 2024-12-23T22:19:04.126018+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.418918400] [调试] 当前行: ProductID: 21089, Price: 2409.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T11:54:21.268269+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.419917500] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.419917500] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2409.0, New Price = 393.0, Scrape Time = 2024-12-23T11:54:21.268269+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.420917100] [调试] 当前行: ProductID: 21089, Price: 2469.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T22:16:00.218818+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.421916500] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.421916500] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2469.0, New Price = 402.0, Scrape Time = 2024-12-22T22:16:00.218818+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.422916100] [调试] 当前行: ProductID: 21089, Price: 2469.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T21:42:12.926253+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.422916100] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.423931200] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2469.0, New Price = 402.0, Scrape Time = 2024-12-22T21:42:12.926253+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.423931200] [调试] 当前行: ProductID: 21089, Price: 2459.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T20:14:29.320563+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.424920500] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.425914300] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2459.0, New Price = 401.0, Scrape Time = 2024-12-22T20:14:29.320563+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.425914300] [调试] 当前行: ProductID: 21089, Price: 2479.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T17:38:53.754675+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.426914400] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.426914400] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2479.0, New Price = 404.0, Scrape Time = 2024-12-22T17:38:53.754675+08:00
+12月 24, 2024 3:54:28 下午 eBay_GraphQL1 logAction
+信息: [15:54:28.427913600] [价格修改] 成功: 已修改所有匹配的价格。
+12月 24, 2024 3:56:47 下午 eBay_GraphQL1 logAction
+信息: [15:56:47.465857] [eBay] 开始获取项目ID: 375818151669
+12月 24, 2024 3:56:49 下午 eBay_GraphQL1 logAction
+信息: [15:56:49.289329500] [eBay] 成功获取项目ID: 375818151669
+12月 24, 2024 3:56:49 下午 eBay_GraphQL1 logAction
+信息: [15:56:49.309991] [GraphQL] 提示: 请选择有效的 SKU！
+12月 24, 2024 3:56:49 下午 eBay_GraphQL1 logAction
+信息: [15:56:49.310990700] [GraphQL] 提示: 请选择有效的 SKU！
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.218370800] [GraphQL] 开始查询 SKU: DM7866-202，匹配后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.366198400] [GraphQL] 查询到的 ProductID: 21089
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.519137] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.966966300] [调试] 当前行: ProductID: 21089, Price: 2369.0, Variation: 40-黑棕, Scrape Time: 2024-12-24T14:00:58.952177+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.967981200] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.973964200] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2369.0, New Price = 387.0, Scrape Time = 2024-12-24T14:00:58.952177+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.974963800] [调试] 当前行: ProductID: 21089, Price: 2389.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T23:39:37.916005+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.975963300] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.975963300] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2389.0, New Price = 390.0, Scrape Time = 2024-12-23T23:39:37.916005+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.976962800] [调试] 当前行: ProductID: 21089, Price: 2399.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T22:19:04.126018+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.976962800] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.977962100] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2399.0, New Price = 392.0, Scrape Time = 2024-12-23T22:19:04.126018+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.977962100] [调试] 当前行: ProductID: 21089, Price: 2409.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T11:54:21.268269+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.978961500] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.979961200] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2409.0, New Price = 393.0, Scrape Time = 2024-12-23T11:54:21.268269+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.979961200] [调试] 当前行: ProductID: 21089, Price: 2469.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T22:16:00.218818+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.980961] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.981960300] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2469.0, New Price = 402.0, Scrape Time = 2024-12-22T22:16:00.218818+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.982960400] [调试] 当前行: ProductID: 21089, Price: 2469.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T21:42:12.926253+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.982960400] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.983959100] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2469.0, New Price = 402.0, Scrape Time = 2024-12-22T21:42:12.926253+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.983959100] [调试] 当前行: ProductID: 21089, Price: 2459.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T20:14:29.320563+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.984958700] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.984958700] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2459.0, New Price = 401.0, Scrape Time = 2024-12-22T20:14:29.320563+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.985957700] [调试] 当前行: ProductID: 21089, Price: 2479.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T17:38:53.754675+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.985957700] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.986957200] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2479.0, New Price = 404.0, Scrape Time = 2024-12-22T17:38:53.754675+08:00
+12月 24, 2024 3:56:50 下午 eBay_GraphQL1 logAction
+信息: [15:56:50.987957] [价格修改] 成功: 已修改所有匹配的价格。
+12月 25, 2024 9:25:13 上午 eBay_GraphQL1 logAction
+信息: [09:25:13.096451700] [eBay] 开始获取项目ID: 375885172536
+12月 25, 2024 9:25:15 上午 eBay_GraphQL1 logAction
+信息: [09:25:15.867994900] [eBay] 成功获取项目ID: 375885172536
+12月 25, 2024 9:25:15 上午 eBay_GraphQL1 logAction
+信息: [09:25:15.898978100] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:25:15 上午 eBay_GraphQL1 logAction
+信息: [09:25:15.908972600] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:25:20 上午 eBay_GraphQL1 logAction
+信息: [09:25:20.232278900] [GraphQL] 开始查询 SKU: CT8013-140，匹配后缀: 40.5
+12月 25, 2024 9:25:20 上午 eBay_GraphQL1 logAction
+信息: [09:25:20.412920700] [GraphQL] 错误: 未找到对应的 ProductID
+12月 25, 2024 9:25:22 上午 eBay_GraphQL1 logAction
+信息: [09:25:22.311047600] [GraphQL] 开始查询 SKU: CT8013-140，匹配后缀: 40
+12月 25, 2024 9:25:22 上午 eBay_GraphQL1 logAction
+信息: [09:25:22.410574700] [GraphQL] 错误: 未找到对应的 ProductID
+12月 25, 2024 9:26:59 上午 eBay_GraphQL1 logAction
+信息: [09:26:59.294070300] [eBay] 开始获取项目ID: 395814978837
+12月 25, 2024 9:27:00 上午 eBay_GraphQL1 logAction
+信息: [09:27:00.345988600] [eBay] 成功获取项目ID: 395814978837
+12月 25, 2024 9:27:00 上午 eBay_GraphQL1 logAction
+信息: [09:27:00.350985800] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:27:00 上午 eBay_GraphQL1 logAction
+信息: [09:27:00.351985200] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:27:01 上午 eBay_GraphQL1 logAction
+信息: [09:27:01.183056200] [GraphQL] 开始查询 SKU: DJ4375-106，匹配后缀: 36
+12月 25, 2024 9:27:01 上午 eBay_GraphQL1 logAction
+信息: [09:27:01.316587700] [GraphQL] 查询到的 ProductID: 19946
+12月 25, 2024 9:27:01 上午 eBay_GraphQL1 logAction
+信息: [09:27:01.412267100] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:27:02 上午 eBay_GraphQL1 logAction
+信息: [09:27:02.966747400] [GraphQL] 开始查询 SKU: DJ4375-106，匹配后缀: 36.5
+12月 25, 2024 9:27:03 上午 eBay_GraphQL1 logAction
+信息: [09:27:03.026725] [GraphQL] 查询到的 ProductID: 19946
+12月 25, 2024 9:27:03 上午 eBay_GraphQL1 logAction
+信息: [09:27:03.080338700] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:27:04 上午 eBay_GraphQL1 logAction
+信息: [09:27:04.278956400] [GraphQL] 开始查询 SKU: DJ4375-106，匹配后缀: 37.5
+12月 25, 2024 9:27:04 上午 eBay_GraphQL1 logAction
+信息: [09:27:04.413699300] [GraphQL] 查询到的 ProductID: 19946
+12月 25, 2024 9:27:04 上午 eBay_GraphQL1 logAction
+信息: [09:27:04.511327100] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:27:09 上午 eBay_GraphQL1 logAction
+信息: [09:27:09.438101100] [eBay] 开始获取项目ID: 375725144122
+12月 25, 2024 9:27:10 上午 eBay_GraphQL1 logAction
+信息: [09:27:10.605929] [eBay] 成功获取项目ID: 375725144122
+12月 25, 2024 9:27:10 上午 eBay_GraphQL1 logAction
+信息: [09:27:10.608926900] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:27:10 上午 eBay_GraphQL1 logAction
+信息: [09:27:10.609926700] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:27:11 上午 eBay_GraphQL1 logAction
+信息: [09:27:11.286166300] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:27:12 上午 eBay_GraphQL1 logAction
+信息: [09:27:12.022889300] [GraphQL] 开始查询 SKU: DJ4375-106，匹配后缀: 35.5
+12月 25, 2024 9:27:12 上午 eBay_GraphQL1 logAction
+信息: [09:27:12.115947400] [GraphQL] 查询到的 ProductID: 19946
+12月 25, 2024 9:27:12 上午 eBay_GraphQL1 logAction
+信息: [09:27:12.212544300] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:27:16 上午 eBay_GraphQL1 logAction
+信息: [09:27:16.110826700] [GraphQL] 开始查询 SKU: DJ4375-106，匹配后缀: 37.5
+12月 25, 2024 9:27:16 上午 eBay_GraphQL1 logAction
+信息: [09:27:16.212650600] [GraphQL] 查询到的 ProductID: 19946
+12月 25, 2024 9:27:16 上午 eBay_GraphQL1 logAction
+信息: [09:27:16.273255] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:29:44 上午 eBay_GraphQL1 logAction
+信息: [09:29:44.151039100] [eBay] 开始获取项目ID: 375818151669
+12月 25, 2024 9:29:45 上午 eBay_GraphQL1 logAction
+信息: [09:29:45.019968600] [eBay] 成功获取项目ID: 375818151669
+12月 25, 2024 9:29:45 上午 eBay_GraphQL1 logAction
+信息: [09:29:45.023966700] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:29:45 上午 eBay_GraphQL1 logAction
+信息: [09:29:45.024966100] [GraphQL] 提示: 请选择有效的 SKU！
+12月 25, 2024 9:29:45 上午 eBay_GraphQL1 logAction
+信息: [09:29:45.927102400] [GraphQL] 开始查询 SKU: DM7866-202，匹配后缀: 40-黑棕
+12月 25, 2024 9:29:46 上午 eBay_GraphQL1 logAction
+信息: [09:29:46.019265600] [GraphQL] 查询到的 ProductID: 21089
+12月 25, 2024 9:29:46 上午 eBay_GraphQL1 logAction
+信息: [09:29:46.197226400] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:29:47 上午 eBay_GraphQL1 logAction
+信息: [09:29:47.590955600] [GraphQL] 开始查询 SKU: DM7866-202，匹配后缀: 40.5-黑棕
+12月 25, 2024 9:29:47 上午 eBay_GraphQL1 logAction
+信息: [09:29:47.715543900] [GraphQL] 查询到的 ProductID: 21089
+12月 25, 2024 9:29:47 上午 eBay_GraphQL1 logAction
+信息: [09:29:47.888433900] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.853818200] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-25T05:36:58.715728+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.854830700] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.859826800] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-25T05:36:58.715728+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.860826300] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T23:12:23.118139+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.860826300] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.860826300] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-24T23:12:23.118139+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.861825900] [调试] 当前行: ProductID: 21089, Price: 2179.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T21:23:58.032199+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.861825900] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.861825900] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2179.0, New Price = 359.0, Scrape Time = 2024-12-24T21:23:58.032199+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.862825200] [调试] 当前行: ProductID: 21089, Price: 2179.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T21:12:48.23558+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.862825200] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.862825200] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2179.0, New Price = 359.0, Scrape Time = 2024-12-24T21:12:48.23558+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.863824700] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T16:59:21.025629+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.863824700] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.863824700] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-24T16:59:21.025629+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.864824400] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T14:00:59.032181+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.864824400] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.864824400] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-24T14:00:59.032181+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.865824] [调试] 当前行: ProductID: 21089, Price: 2229.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-23T23:39:37.919474+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.865824] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.865824] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2229.0, New Price = 366.0, Scrape Time = 2024-12-23T23:39:37.919474+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.866822900] [调试] 当前行: ProductID: 21089, Price: 2229.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-23T22:19:04.214942+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.866822900] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.866822900] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2229.0, New Price = 366.0, Scrape Time = 2024-12-23T22:19:04.214942+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.867822400] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-23T11:54:21.337277+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.867822400] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.868822100] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-23T11:54:21.337277+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.868822100] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-22T22:16:00.222603+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.868822100] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.869821500] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-22T22:16:00.222603+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.869821500] [调试] 当前行: ProductID: 21089, Price: 2189.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-22T21:42:12.930218+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.869821500] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.869821500] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2189.0, New Price = 360.0, Scrape Time = 2024-12-22T21:42:12.930218+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.870834500] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-22T20:14:29.324997+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.870834500] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.870834500] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-22T20:14:29.324997+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.870834500] [调试] 当前行: ProductID: 21089, Price: 2209.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-22T17:38:53.801656+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.871834200] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.871834200] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2209.0, New Price = 363.0, Scrape Time = 2024-12-22T17:38:53.801656+08:00
+12月 25, 2024 9:29:48 上午 eBay_GraphQL1 logAction
+信息: [09:29:48.872819900] [价格修改] 成功: 已修改所有匹配的价格。
+12月 25, 2024 9:29:55 上午 eBay_GraphQL1 logAction
+信息: [09:29:55.703029100] [GraphQL] 开始查询 SKU: DM7866-202，匹配后缀: 40-黑棕
+12月 25, 2024 9:29:55 上午 eBay_GraphQL1 logAction
+信息: [09:29:55.817417100] [GraphQL] 查询到的 ProductID: 21089
+12月 25, 2024 9:29:55 上午 eBay_GraphQL1 logAction
+信息: [09:29:55.982562800] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.653866900] [调试] 当前行: ProductID: 21089, Price: 2389.0, Variation: 40-黑棕, Scrape Time: 2024-12-25T05:36:58.62013+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.653866900] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.654868500] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2389.0, New Price = 390.0, Scrape Time = 2024-12-25T05:36:58.62013+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.654868500] [调试] 当前行: ProductID: 21089, Price: 2399.0, Variation: 40-黑棕, Scrape Time: 2024-12-24T23:12:23.030102+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.654868500] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.655868600] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2399.0, New Price = 392.0, Scrape Time = 2024-12-24T23:12:23.030102+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.655868600] [调试] 当前行: ProductID: 21089, Price: 2399.0, Variation: 40-黑棕, Scrape Time: 2024-12-24T21:23:57.836193+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.655868600] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.655868600] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2399.0, New Price = 392.0, Scrape Time = 2024-12-24T21:23:57.836193+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.656867200] [调试] 当前行: ProductID: 21089, Price: 2399.0, Variation: 40-黑棕, Scrape Time: 2024-12-24T21:12:48.134088+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.656867200] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.656867200] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2399.0, New Price = 392.0, Scrape Time = 2024-12-24T21:12:48.134088+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.657881300] [调试] 当前行: ProductID: 21089, Price: 2369.0, Variation: 40-黑棕, Scrape Time: 2024-12-24T16:59:21.02071+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.657881300] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.657881300] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2369.0, New Price = 387.0, Scrape Time = 2024-12-24T16:59:21.02071+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.657881300] [调试] 当前行: ProductID: 21089, Price: 2369.0, Variation: 40-黑棕, Scrape Time: 2024-12-24T14:00:58.952177+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.658865800] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.658865800] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2369.0, New Price = 387.0, Scrape Time = 2024-12-24T14:00:58.952177+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.658865800] [调试] 当前行: ProductID: 21089, Price: 2389.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T23:39:37.916005+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.658865800] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.659865600] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2389.0, New Price = 390.0, Scrape Time = 2024-12-23T23:39:37.916005+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.659865600] [调试] 当前行: ProductID: 21089, Price: 2399.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T22:19:04.126018+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.659865600] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.660864700] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2399.0, New Price = 392.0, Scrape Time = 2024-12-23T22:19:04.126018+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.660864700] [调试] 当前行: ProductID: 21089, Price: 2409.0, Variation: 40-黑棕, Scrape Time: 2024-12-23T11:54:21.268269+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.660864700] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.660864700] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2409.0, New Price = 393.0, Scrape Time = 2024-12-23T11:54:21.268269+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.661864200] [调试] 当前行: ProductID: 21089, Price: 2469.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T22:16:00.218818+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.661864200] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.661864200] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2469.0, New Price = 402.0, Scrape Time = 2024-12-22T22:16:00.218818+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.661864200] [调试] 当前行: ProductID: 21089, Price: 2469.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T21:42:12.926253+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.662864600] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.662864600] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2469.0, New Price = 402.0, Scrape Time = 2024-12-22T21:42:12.926253+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.662864600] [调试] 当前行: ProductID: 21089, Price: 2459.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T20:14:29.320563+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.663863600] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.663863600] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2459.0, New Price = 401.0, Scrape Time = 2024-12-22T20:14:29.320563+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.663863600] [调试] 当前行: ProductID: 21089, Price: 2479.0, Variation: 40-黑棕, Scrape Time: 2024-12-22T17:38:53.754675+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.663863600] [调试] Variation: 40-黑棕, SKU 后缀: 40-黑棕
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.663863600] [价格修改] 成功匹配: SKU = DM7866-202-40-黑棕, Old Price = 2479.0, New Price = 404.0, Scrape Time = 2024-12-22T17:38:53.754675+08:00
+12月 25, 2024 9:30:00 上午 eBay_GraphQL1 logAction
+信息: [09:30:00.664862700] [价格修改] 成功: 已修改所有匹配的价格。
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.158488400] [GraphQL] 开始查询 SKU: DM7866-202，匹配后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.220452500] [GraphQL] 查询到的 ProductID: 21089
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.334387800] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.853091500] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-25T05:36:58.715728+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.854090100] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.854090100] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-25T05:36:58.715728+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.854090100] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T23:12:23.118139+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.855089900] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.855089900] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-24T23:12:23.118139+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.855089900] [调试] 当前行: ProductID: 21089, Price: 2179.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T21:23:58.032199+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.855089900] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.856089700] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2179.0, New Price = 359.0, Scrape Time = 2024-12-24T21:23:58.032199+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.856089700] [调试] 当前行: ProductID: 21089, Price: 2179.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T21:12:48.23558+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.856089700] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.856089700] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2179.0, New Price = 359.0, Scrape Time = 2024-12-24T21:12:48.23558+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.857088400] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T16:59:21.025629+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.857088400] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.857088400] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-24T16:59:21.025629+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.857088400] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-24T14:00:59.032181+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.857088400] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.858088400] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-24T14:00:59.032181+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.858088400] [调试] 当前行: ProductID: 21089, Price: 2229.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-23T23:39:37.919474+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.858088400] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.858088400] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2229.0, New Price = 366.0, Scrape Time = 2024-12-23T23:39:37.919474+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.858088400] [调试] 当前行: ProductID: 21089, Price: 2229.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-23T22:19:04.214942+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.859087400] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.859087400] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2229.0, New Price = 366.0, Scrape Time = 2024-12-23T22:19:04.214942+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.859087400] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-23T11:54:21.337277+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.859087400] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.860086700] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-23T11:54:21.337277+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.860086700] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-22T22:16:00.222603+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.860086700] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.860086700] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-22T22:16:00.222603+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.860086700] [调试] 当前行: ProductID: 21089, Price: 2189.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-22T21:42:12.930218+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.861086] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.861086] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2189.0, New Price = 360.0, Scrape Time = 2024-12-22T21:42:12.930218+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.861086] [调试] 当前行: ProductID: 21089, Price: 2199.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-22T20:14:29.324997+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.861086] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.861086] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2199.0, New Price = 362.0, Scrape Time = 2024-12-22T20:14:29.324997+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.862087400] [调试] 当前行: ProductID: 21089, Price: 2209.0, Variation: 40.5-黑棕, Scrape Time: 2024-12-22T17:38:53.801656+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.862087400] [调试] Variation: 40.5-黑棕, SKU 后缀: 40.5-黑棕
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.862087400] [价格修改] 成功匹配: SKU = DM7866-202-40.5-黑棕, Old Price = 2209.0, New Price = 363.0, Scrape Time = 2024-12-22T17:38:53.801656+08:00
+12月 25, 2024 9:34:08 上午 eBay_GraphQL1 logAction
+信息: [09:34:08.862087400] [价格修改] 成功: 已修改所有匹配的价格。
+12月 25, 2024 9:34:11 上午 eBay_GraphQL1 logAction
+信息: [09:34:11.005859] [GraphQL] 开始查询 SKU: DM7866-202，匹配后缀: 36.5-黑棕
+12月 25, 2024 9:34:11 上午 eBay_GraphQL1 logAction
+信息: [09:34:11.118949400] [GraphQL] 查询到的 ProductID: 21089
+12月 25, 2024 9:34:11 上午 eBay_GraphQL1 logAction
+信息: [09:34:11.279869500] [GraphQL] 成功匹配 SKU 和 Variation 数据
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.005707100] [调试] 当前行: ProductID: 21089, Price: 2059.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-25T05:36:59.618194+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.005707100] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.005707100] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2059.0, New Price = 341.0, Scrape Time = 2024-12-25T05:36:59.618194+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.006708800] [调试] 当前行: ProductID: 21089, Price: 2059.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-24T23:12:23.429964+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.006708800] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.006708800] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2059.0, New Price = 341.0, Scrape Time = 2024-12-24T23:12:23.429964+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.006708800] [调试] 当前行: ProductID: 21089, Price: 2059.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-24T21:23:59.735184+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.006708800] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.007707600] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2059.0, New Price = 341.0, Scrape Time = 2024-12-24T21:23:59.735184+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.007707600] [调试] 当前行: ProductID: 21089, Price: 2059.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-24T21:12:49.93511+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.007707600] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.007707600] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2059.0, New Price = 341.0, Scrape Time = 2024-12-24T21:12:49.93511+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.007707600] [调试] 当前行: ProductID: 21089, Price: 2069.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-24T16:59:21.528928+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.008707100] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.008707100] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2069.0, New Price = 342.0, Scrape Time = 2024-12-24T16:59:21.528928+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.008707100] [调试] 当前行: ProductID: 21089, Price: 2059.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-24T14:00:59.407104+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.008707100] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.008707100] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2059.0, New Price = 341.0, Scrape Time = 2024-12-24T14:00:59.407104+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.009707700] [调试] 当前行: ProductID: 21089, Price: 2159.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-23T23:39:38.121728+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.009707700] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.009707700] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2159.0, New Price = 356.0, Scrape Time = 2024-12-23T23:39:38.121728+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.009707700] [调试] 当前行: ProductID: 21089, Price: 2129.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-23T22:19:04.629013+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.009707700] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.010706700] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2129.0, New Price = 351.0, Scrape Time = 2024-12-23T22:19:04.629013+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.010706700] [调试] 当前行: ProductID: 21089, Price: 2129.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-23T11:54:22.534844+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.010706700] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.010706700] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2129.0, New Price = 351.0, Scrape Time = 2024-12-23T11:54:22.534844+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.010706700] [调试] 当前行: ProductID: 21089, Price: 2059.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-22T22:16:00.525932+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.011705900] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.011705900] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2059.0, New Price = 341.0, Scrape Time = 2024-12-22T22:16:00.525932+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.011705900] [调试] 当前行: ProductID: 21089, Price: 2059.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-22T21:42:13.329536+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.011705900] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.011705900] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2059.0, New Price = 341.0, Scrape Time = 2024-12-22T21:42:13.329536+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.012705600] [调试] 当前行: ProductID: 21089, Price: 2059.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-22T20:14:29.531565+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.012705600] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.012705600] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2059.0, New Price = 341.0, Scrape Time = 2024-12-22T20:14:29.531565+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.012705600] [调试] 当前行: ProductID: 21089, Price: 2079.0, Variation: 36.5-黑棕, Scrape Time: 2024-12-22T17:38:54.751792+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.012705600] [调试] Variation: 36.5-黑棕, SKU 后缀: 36.5-黑棕
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.012705600] [价格修改] 成功匹配: SKU = DM7866-202-36.5-黑棕, Old Price = 2079.0, New Price = 344.0, Scrape Time = 2024-12-22T17:38:54.751792+08:00
+12月 25, 2024 9:34:12 上午 eBay_GraphQL1 logAction
+信息: [09:34:12.013704600] [价格修改] 成功: 已修改所有匹配的价格。
